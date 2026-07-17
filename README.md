@@ -26,16 +26,16 @@ The chatbot interacts with users through text input and provides predefined resp
 
 # Task 2: Tic-Tac-Toe AI using Minimax
 
-### Project Overview
+## Project Overview
 This project is an AI-based Tic-Tac-Toe game developed using Python for the CodSoft AI Internship.
 The game allows a user to play against an AI opponent. The AI uses the Minimax algorithm to analyze possible moves and select the best possible move.
 
-### AI Algorithm Used
+## AI Algorithm Used
 **Minimax Algorithm**
 
 Minimax is a decision-making algorithm used in game theory and Artificial Intelligence. It helps the AI choose the optimal move by evaluating all possible future game states and selecting the move that gives the best outcome.
 
-### Features
+## Features
 - User vs AI gameplay
 - Intelligent AI opponent
 - Minimax algorithm for decision making
@@ -43,7 +43,7 @@ Minimax is a decision-making algorithm used in game theory and Artificial Intell
 - Win and draw detection
 - Interactive command-line interface
 
-### Technologies Used
+## Technologies Used
 - Python
 
 
