@@ -20,12 +20,12 @@ The chatbot interacts with users through text input and provides predefined resp
 ## How to Run
 1. Download or clone this repository.
 2. Open terminal in the project folder.
-3. Run the command:
-      python chatbot.py
+3. Run the python file:
+     CODSOFT_TASK1_Chatbot.py
 
-## Sample Output of Chatbot AI (TASK 1)
+## Sample Output for Chatbot AI (TASK 1)
 Here is a sample output of Chatbot AI:
-output.png of chatbot.py.png
+   task1_chatbot_output.png
 
 
 # Task 2: Tic-Tac-Toe AI using Minimax
@@ -52,7 +52,37 @@ Minimax is a decision-making algorithm used in game theory and Artificial Intell
 
 ## How to Run
 1. Open the project folder in VS Code.
-2. Run the following command:
-      python tic_tac_toe.py
+2. Run the python file:
+      CODSOFT_TASK2_Tic_tac_toe.py
 
+## Sample Output for Tic-Tac-Toe (TASK 2)
+Here is a sample output of tic-tac-toe:
+   task2_tictactoe_output.png
+  
 
+# Movie Recommendation System
+
+## Task 4 - Movie Recommendation System
+
+## Project Overview
+This project is a Movie Recommendation System developed using Python. It recommends similar movies to the user based on the movie name entered.
+
+## Features
+- Takes movie name as user input
+- Provides top recommended movies
+- Simple and user-friendly interface
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## How to Run
+1. Install the required Python libraries.
+2. Run the Python file:
+     CODSOFT_TASK4_Recommendationsystem.py
+
+## Sample Output for Recommendation System (TASK 4)
+Here is a sample output of recommendation system:
+   task4_recommendationsystem_output.png
