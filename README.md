@@ -46,6 +46,9 @@ Minimax is a decision-making algorithm used in game theory and Artificial Intell
 ## Technologies Used
 - Python
 
-
+## How to Run
+1. Open the project folder in VS Code.
+2. Run the following command:
+      python tic_tac_toe.py
 
 
