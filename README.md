@@ -23,6 +23,10 @@ The chatbot interacts with users through text input and provides predefined resp
 3. Run the command:
       python chatbot.py
 
+## Sample Output of Chatbot AI (TASK 1)
+Here is a sample output of Chatbot AI:
+output.png of chatbot.py.png
+
 
 # Task 2: Tic-Tac-Toe AI using Minimax
 
