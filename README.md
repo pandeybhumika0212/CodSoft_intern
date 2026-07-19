@@ -60,9 +60,7 @@ Here is a sample output of tic-tac-toe:
    task2_tictactoe_output.png
   
 
-# Movie Recommendation System
-
-## Task 4 - Movie Recommendation System
+# Task 4 - Movie Recommendation System
 
 ## Project Overview
 This project is a Movie Recommendation System developed using Python. It recommends similar movies to the user based on the movie name entered.
