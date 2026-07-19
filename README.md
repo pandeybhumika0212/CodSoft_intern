@@ -71,6 +71,9 @@ This project is a Movie Recommendation System developed using Python. It recomme
 - Simple and user-friendly interface
 
 ## Technologies Used
+**Content-Based Filtering** 
+
+-This project uses Content-Based Filtering to recommend movies. It compares movie features and recommends movies that are similar to the one entered by the user.
 - Python
 - Pandas
 - NumPy
